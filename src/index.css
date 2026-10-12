@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Leaflet Custom Marker Styling */
+.custom-bus-marker,
+.custom-stop-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.leaflet-container {
+  font-family: inherit;
+}

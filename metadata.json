@@ -1,0 +1,6 @@
+{
+  "name": "CampusRide - KCG College Transportation Management System",
+  "description": "Complete College Transportation Management System for KCG College of Technology, Chennai with live bus tracking, QR boarding, smart proximity alerts, department HOD delay engine, and transport administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
